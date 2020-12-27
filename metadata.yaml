@@ -1,11 +1,16 @@
 _repo: Under-the-Turk-in-Constantinople-A-record-of-Sir-John-Finch-s-Embassy-1674-1681_64131
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 64131-h/images/cover.jpg
 creator:
   author:
     agent_name: Abbot, George Frederick
     gutenberg_agent_id: '52763'
     url: http://www.gutenberg.org/2009/agents/52763
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64131#Under-the-Turk-in-Constantinople-A-record-of-Sir-John-Finch-s-Embassy-1674-1681
 gutenberg_issued: '2020-12-25'
 gutenberg_type: Text
 identifiers:
